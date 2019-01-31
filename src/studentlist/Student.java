@@ -53,8 +53,8 @@ public class Student {
     /**
      * @return the DoB
      */
-    public String getDoB() {
-        return DoB;
+    public int getDoB() {
+        return 0;//DoB;
     }
 
     /**
