@@ -50,20 +50,7 @@ public class Student {
            return this.id;
     }
 
-    /**
-     * @return the DoB
-     */
-    public int getDoB() {
-        return 0;//DoB;
-    }
-
-    /**
-     * @param DoB the DoB to set
-     */
-    public void setDoB(String DoB) {
-        this.DoB = DoB;
-    }
-
+    
     /**
      * @return the maxHrs
      */
