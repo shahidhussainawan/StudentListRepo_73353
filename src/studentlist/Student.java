@@ -16,7 +16,7 @@ public class Student {
     private String name;
     private int id;
     private String DoB;
-    
+    // this property is for part-time students only
     private int maxHrs;
    
     public Student()
