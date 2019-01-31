@@ -15,6 +15,8 @@ public class Student {
     private String name;
     private int id;
     private String DoB;
+    
+    private int maxHrs;
    
     public Student()
     {
@@ -56,6 +58,20 @@ public class Student {
      */
     public void setDoB(String DoB) {
         this.DoB = DoB;
+    }
+
+    /**
+     * @return the maxHrs
+     */
+    public int getMaxHrs() {
+        return maxHrs;
+    }
+
+    /**
+     * @param maxHrs the maxHrs to set
+     */
+    public void setMaxHrs(int maxHrs) {
+        this.maxHrs = maxHrs;
     }
             
     
