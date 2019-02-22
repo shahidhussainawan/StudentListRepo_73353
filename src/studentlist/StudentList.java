@@ -8,6 +8,7 @@ package studentlist;
 /**
  *
  * @author shaim
+ *modifier shahid hussain
  */
 public class StudentList {
 
